@@ -1,4 +1,4 @@
-## . Salifort Motors Project-HR Analytics & Attrition Prediction(Capstone Project)
+##  Salifort Motors Project-HR Analytics & Attrition Prediction(Capstone Project)
 
 **Tools**: Python (Pandas, NumPy, Scikit-Learn), Matplotlib, Seaborn
 
