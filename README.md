@@ -1,4 +1,4 @@
-## 1. Salifort Motors Project-HR Analytics & Attrition Prediction(Capstone Project)
+## . Salifort Motors Project-HR Analytics & Attrition Prediction(Capstone Project)
 
 **Tools**: Python (Pandas, NumPy, Scikit-Learn), Matplotlib, Seaborn
 
@@ -10,8 +10,8 @@
 - Delivered actionable recommendations to HR based on the modeling and EDA.
 
 **Deliverables**:
-- [Salifort motors-capstone.py] → End-to-end data cleaning, EDA, and machine learning models (Logistic Regression, Decision Tree, Random Forest).  
-- [PACE Strategy Document] → Planning and analysis framework documenting problem definition, approach, and ethical considerations.  
-- [Summary Report (PDF)] → Key visualizations, model performance metrics, feature importance charts, and HR recommendations.  
+- **Salifort motors-capstone.py** → End-to-end data cleaning, EDA, and machine learning models (Logistic Regression, Decision Tree, Random Forest).  
+- **PACE Strategy Document** → Planning and analysis framework documenting problem definition, approach, and ethical considerations.  
+- **Summary Report (PDF)**→ Key visualizations, model performance metrics, feature importance charts, and HR recommendations.  
 
 
