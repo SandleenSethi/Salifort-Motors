@@ -12,6 +12,6 @@
 **Deliverables**:
 - **Salifort motors-capstone.py** → End-to-end data cleaning, EDA, and machine learning models (Logistic Regression, Decision Tree, Random Forest).  
 - **PACE Strategy Document** → Planning and analysis framework documenting problem definition, approach, and ethical considerations.  
-- **Summary Report (PDF)**→ Key visualizations, model performance metrics, feature importance charts, and HR recommendations.  
+- ****Summary Report** (PDF)**→ Key visualizations, model performance metrics, feature importance charts, and HR recommendations.  
 
 
